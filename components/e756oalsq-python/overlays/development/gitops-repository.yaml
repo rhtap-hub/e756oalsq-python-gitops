@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e756oalsq-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-hub/e756oalsq-python-gitops
